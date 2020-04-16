@@ -17,6 +17,7 @@ In this tutorial, We will be building a simple Note-Taking application. We will 
 We’ll start by building a simple web server and then move on to configuring the database, building the Note model and different routes for handling all the CRUD operations.
 
 Finally, we’ll test our REST APIs using Postman.
+![CRUD](crud.png)
 
 Also, In this post, we’ll heavily use ES6 features like let, const, arrow functions, promises etc. It’s good to familiarize yourself with these features. I recommend this re-introduction to Javascript to brush up these concepts.
 
